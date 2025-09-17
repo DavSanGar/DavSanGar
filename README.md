@@ -2,6 +2,9 @@
 
 
 ![GitHub](https://img.shields.io/badge/GitHub-14?logo=github&logoColor=black)
+![Telegram](https://img.shields.io/badge/Telegram-345?logo=telegram&logoColor=yellow)
+![Apple](https://img.shields.io/badge/Apple-990000?logo=apple&logoColor=grey)
+
 
 
 <!--
