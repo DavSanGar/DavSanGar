@@ -5,9 +5,9 @@
 
 Dispuesto a iniciar vida laborar como desarrollador
 
-Soy estudiante de desarrollo FullStack en ConcquerBlocks.
+Soy estudiante de desarrollo FullStack en ConquerBlocks.
 
-Llevo actualmente 9 meses aprendiendo día a día nuevos contenidos, conocimientos y formas de trabajar en el mundo del desarrollo web.
+Llevo actualmente más de año y medio aprendiendo día a día nuevos contenidos, conocimientos y formas de trabajar en el mundo del desarrollo web.
 
 He estado toda mi vida vinculado al mundo de la infromática pero por circunstancias personales no me he podido formar antes en este ámbito. Ahora compagino mi trabajo actual con el estudio diario, en medida de lo posible, para poder tener oportunidades laborales en este mundo y deseando poder cambiar el rumbo de mi vida profesional a este sector.
 
