@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="g_p" src="https://github.com/user-attachments/assets/763eecd4-01d4-419a-aee1-b4a784ff1b36" />
+<img width="861" height="643" alt="Captura de pantalla 2026-06-12 a las 18 32 07" src="https://github.com/user-attachments/assets/51f99dae-1bc8-46eb-842c-946f4fc28bbb" />
 
 
 ## Hi there, I´m David Sánchez 👋
