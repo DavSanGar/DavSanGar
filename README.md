@@ -1,19 +1,34 @@
 <img width="846" height="634" alt="Captura de pantalla 2026-06-12 a las 18 33 04" src="https://github.com/user-attachments/assets/fb52d021-d9e8-4e4d-974e-d3cd8e3af790" />
 
 
-## Hi there, I´m David Sánchez 👋
+## ¡Hola! Soy David Sánchez 👋
 
-Dispuesto a iniciar vida laborar como desarrollador
 
-Soy estudiante de desarrollo FullStack en ConquerBlocks.
+### 💻 Desarrollador Full-Stack en formación | Apasionado por la tecnología y el aprendizaje continuo
 
-Llevo actualmente más de año y medio aprendiendo día a día nuevos contenidos, conocimientos y formas de trabajar en el mundo del desarrollo web.
+Llevo más de 2 años enfocado en el aprendizaje intensivo de desarrollo web a través de **ConquerBlocks**, combinando mi jornada laboral diaria con el estudio técnico riguroso. Vinculado al mundo de la informática de forma vocacional desde siempre, he dado el paso definitivo para enfocar mi carrera profesional en el sector del software.
 
-He estado toda mi vida vinculado al mundo de la infromática pero por circunstancias personales no me he podido formar antes en este ámbito. Ahora compagino mi trabajo actual con el estudio diario en medida de lo posible, para poder tener oportunidades laborales en este mundo y deseando cambiar el rumbo de mi vida profesional a este sector.
+Destaco por mi **disciplina, resiliencia y capacidad de aprendizaje rápido**. Busco mi primera oportunidad laboral (puesto Junior o prácticas) para aportar valor, trabajar codo a codo con desarrolladores experimentados y crecer profesionalmente en un entorno técnico.
 
-Dispuesto a iniciarme en un puesto de trabajo en formato de prácticas para aportar todas mis ganas, aprender lo máximo de compañeros y luchar por un empleo.
+---
 
-Habrá gente con más conocimientos que yo, pero con más ganas no.
+### 🛠️ Tecnologías & Herramientas
+
+* **Frontend:** HTML5, CSS3, JavaScript/Typescript (ES6+), React.
+* **Backend:** Node.js, SQL, Rust, Java, Go.
+* **Control de versiones & utilidades:** Git, GitHub, VS Code
+
+---
+
+### 📌 Puntos clave sobre mí
+
+* 🚀 **Objetivo actual:** Incorporarme a un equipo técnico donde pueda aportar compromiso, resolver problemas reales y acelerar mi curva de aprendizaje.
+* 📚 **Formación:** Full-Stack Web Development en ConquerBlocks (2 años de práctica diaria).
+* ⚡ **Valor diferencial:** Constancia demostrada al compaginar trabajo y estudio técnico de forma autónoma y continua.
+
+---
+
+📫 **Contacto:** {dsg1989@protonmail.com} | [www.linkedin.com/in/david-sánchez-garcía]
 
 
 ### GitHub Stacks ###
